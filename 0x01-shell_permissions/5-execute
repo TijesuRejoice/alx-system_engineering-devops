@@ -1,2 +1,4 @@
 #!/bin/bash
 chmod u+x hello
+[master 5b2820f] Execute file coming up
+ 1 file changed, 1 insertion(+), 1 deletion(-)
