@@ -1,2 +1,9 @@
 #!/usr/bin/env ruby
-puts ARGV[0].scan(/School/).join
+
+input = ARGV[0]
+
+if input =~ /School/
+  puts "Input matches the regular expression."
+else
+  puts "Input does not match the regulaer expression."
+end
